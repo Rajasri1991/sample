@@ -1,0 +1,67 @@
+
+#logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 100px;
+    background-color: red;
+    
+}
+#header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+}
+.products {
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    
+}
+.about {
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    
+}
+.contact {
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    
+}
+.purpose {
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    
+}
+.fixed {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+
+}
+#heading3 {
+    margin-top: 200px;
+    padding-left: 50px;
+}
+#footer {
+    margin-top: 100px;
+    padding-left: 0px;
+    background-color: purple;
+    text-align: center;
+    height: 20px;
+    width: 100%;
+
+}
+
+.contactus {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: aqua;
+    
+}
+.slogan {
+    display: flex;
+    flex-direction: column;
+}
